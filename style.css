@@ -12,4 +12,5 @@ body {
     left: 0;
     top: 0;
     padding: 50px;
+    user-select: none;
 }
