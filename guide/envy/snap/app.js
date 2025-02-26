@@ -36,9 +36,9 @@ function openFile() {
   <div id="chat-container" style="position: absolute; bottom: 10px; width: calc(100% - 35px);">
         <div style="display: flex;">
         <input type="file" id="image" style="display: none;">
-        <button style="min-width: 50px; height: 40px; margin-right: 10px; padding-top: 5px; border-radius: 4px;" onclick="openFile()"><img src="./paperclip.svg"></button>
+        <button style="min-width: 50px; height: 40px; margin-right: 10px; padding-top: 5px; border-radius: 4px;" onclick="openFile()"><img src="http://store.envy.ink/guide/envy/snap/paperclip.svg"></button>
         <input style="height: 34px; width: calc(100% - 120px); border-radius: 4px; padding-left: 15px;" type="text" id="message" placeholder="Ask me anything">
-        <button style="min-width: 50px; height: 40px; margin-left: 10px; padding-top: 5px; border-radius: 4px;" onclick="sendMessage()"><img src="./arrow-up-from-line.svg"></button>
+        <button style="min-width: 50px; height: 40px; margin-left: 10px; padding-top: 5px; border-radius: 4px;" onclick="sendMessage()"><img src="http://store.envy.ink/guide/envy/snap/arrow-up-from-line.svg"></button>
     </div>
   `;
 
