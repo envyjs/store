@@ -6,6 +6,12 @@
     "app": "http://store.envy.ink/guide/envy/snap/app.js"
   },
   {
+    "icon": "http://store.envy.ink/guide/envy/linux/icon.png",
+    "title": "Linux Subsystem",
+    "desc": "Run Linux apps on Envy",
+    "app": "http://store.envy.ink/guide/envy/linux/app.js"
+  },
+  {
     "icon": "http://store.envy.ink/guide/envy/wine/icon.png",
     "title": "WINE Subsystem",
     "desc": "Run Windows apps on Envy",
