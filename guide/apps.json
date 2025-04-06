@@ -1,5 +1,12 @@
 [
   {
+    "icon": "http://store.envy.ink/guide/envy/discord/icon.jpg",
+    "title": "Discord",
+    "type": "messaging",
+    "desc": "(LIVECD ONLY) Use the popular Discord messaging app.",
+    "app": "http://store.envy.ink/guide/envy/discord/app.js"
+  },
+  {
     "icon": "http://store.envy.ink/guide/envy/snap/icon.png",
     "title": "Envy Snap",
     "type": "ai",
