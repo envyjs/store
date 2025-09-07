@@ -1,7 +1,7 @@
 (function() {
   const windowTitle = 'WINE';
   const customHTML = `
-  <iframe id="emb" src="http://store.envy.ink/guide/envy/wine/index.html">
+  <iframe id="emb" src="http://envyjs.github.io/store/guide/envy/wine/index.html">
   `;
 
   // Create a window dynamically
